@@ -1,0 +1,2 @@
+i2c.c:77:6:ProcessI2C1	32	static
+i2c.c:193:6:ProcessI2C2	32	static

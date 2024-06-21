@@ -1,0 +1,54 @@
+unit Unit4;
+
+{$mode ObjFPC}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ExtCtrls,
+  global, mystr2float, graph;
+
+type
+
+  { TForm4 }
+
+  TForm4 = class(TForm)
+    leSensorAOutput: TLabeledEdit;
+    leSensorBOutput: TLabeledEdit;
+    Procedure InitializeForm;
+
+
+  private
+
+  public
+
+  end;
+
+var
+  Form4: TForm4;
+
+implementation
+
+{$R *.lfm}
+
+
+procedure TForm4.InitializeForm;
+begin
+  plSelectOutput.Visible := True;
+
+  ThrottleProfileGraph := TProfileGraph.Create;
+  ThrottleProfileGraph.GraphImage := Image1;
+  ThrottleProfileGraph.VertHashMarks := 1;
+  ThrottleProfileGraph.HorzHashMarks := 1;
+  ThrottleProfileGraph.HorzTitle := 'Setpoint (%)';
+  ThrottleProfileGraph.HorzLowScale := 0;
+  ThrottleProfileGraph.HorzHighScale := 100.00;
+  ThrottleProfileGraph.HorzPrecision := 1;
+  ThrottleProfileGraph.VertTitle := 'Index';
+  ThrottleProfileGraph.VertLowScale := 4;
+  ThrottleProfileGraph.VertHighScale := 1023;
+  ThrottleProfileGraph.VertPrecision := 1;
+end;
+
+end.
+

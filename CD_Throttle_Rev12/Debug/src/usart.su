@@ -1,0 +1,7 @@
+usart.c:59:6:HAL_UART_TxCpltCallback	16	static
+usart.c:82:13:UART_DMATransmitCplt	24	static
+usart.c:102:6:STM32_UART_Transmit_DMA	24	static
+usart.c:127:13:UART_EndTransmit_IT	16	static
+usart.c:143:6:STM32_UART_IRQHandler	32	static
+usart.c:186:6:MX_USART1_UART_Init	32	static
+usart.c:247:6:MX_USART2_UART_Init	32	static

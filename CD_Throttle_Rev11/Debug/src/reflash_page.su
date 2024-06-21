@@ -1,0 +1,3 @@
+reflash_page.c:69:13:WaitForLastOperation	8	static
+reflash_page.c:89:13:Flash_Program	24	static
+reflash_page.c:122:6:ReflashTuningParameters	24	static

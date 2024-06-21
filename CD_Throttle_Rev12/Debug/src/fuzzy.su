@@ -1,0 +1,10 @@
+fuzzy.c:80:6:Qual_1	8	static
+fuzzy.c:122:6:Qual_2	8	static
+fuzzy.c:152:9:Min	16	static
+fuzzy.c:172:9:Max	16	static
+fuzzy.c:199:9:Fuzzy_Trimf	48	static
+fuzzy.c:234:9:Fuzzy_Trapmf	40	static
+fuzzy.c:255:9:Fuzzy_Array_Operation	40	static
+fuzzy.c:286:9:Fuzzy_MF_Out	72	static
+fuzzy.c:333:9:Fuzzy_Defuzz_Centroid	56	static
+fuzzy.c:367:6:Fuzzy_Evaluate	264	static

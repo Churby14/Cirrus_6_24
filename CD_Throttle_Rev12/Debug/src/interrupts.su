@@ -1,0 +1,15 @@
+interrupts.c:58:6:NMI_Handler	8	static
+interrupts.c:73:6:HardFault_Handler	8	static
+interrupts.c:87:6:SVC_Handler	8	static
+interrupts.c:101:6:PendSV_Handler	8	static
+interrupts.c:115:6:EXTI0_1_IRQHandler	8	static
+interrupts.c:129:6:EXTI2_3_IRQHandler	8	static
+interrupts.c:143:6:EXTI4_15_IRQHandler	8	static
+interrupts.c:159:6:SysTick_Handler	8	static
+interrupts.c:173:6:USART1_IRQHandler	8	static
+interrupts.c:187:6:USART2_IRQHandler	8	static
+interrupts.c:201:6:USART3_4_IRQHandler	8	static
+interrupts.c:215:6:DMA1_Channel1_IRQHandler	8	static
+interrupts.c:229:6:DMA1_Channel2_3_IRQHandler	8	static
+interrupts.c:244:6:DMA1_Channel4_5_6_7_IRQHandler	8	static
+interrupts.c:258:6:CAN_IRQHandler	8	static

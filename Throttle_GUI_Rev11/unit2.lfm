@@ -1,0 +1,429 @@
+object Form2: TForm2
+  Left = -394
+  Height = 711
+  Top = 330
+  Width = 385
+  Caption = 'Manual Mode'
+  ClientHeight = 711
+  ClientWidth = 385
+  LCLVersion = '2.0.10.0'
+  object cbManualPowerInput: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 8
+    Width = 227
+    Caption = 'Power Input Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+  end
+  object cbManualKma: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 64
+    Width = 176
+    Caption = 'KMA Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+  end
+  object cbManualTemperature: TCheckBox
+    Left = 9
+    Height = 20
+    Top = 128
+    Width = 231
+    Caption = 'Temperature Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+  end
+  object edtManualPowerInput: TEdit
+    Left = 8
+    Height = 24
+    Top = 28
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualPowerInputChange
+    ParentFont = False
+    TabOrder = 3
+    Text = '0'
+  end
+  object edtManualKma: TEdit
+    Left = 8
+    Height = 24
+    Top = 88
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualKmaChange
+    ParentFont = False
+    TabOrder = 4
+    Text = '0'
+  end
+  object edtManualTemperature: TEdit
+    Left = 8
+    Height = 24
+    Top = 152
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualTemperatureChange
+    ParentFont = False
+    TabOrder = 5
+    Text = '0'
+  end
+  object cbManualRVOutputVoltage: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 192
+    Width = 268
+    Caption = 'RV Output Voltage Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 6
+  end
+  object cbManualRVOutputCurrent: TCheckBox
+    Left = 9
+    Height = 20
+    Top = 256
+    Width = 268
+    Caption = 'RV Output Current Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 7
+  end
+  object cbManualAccelX: TCheckBox
+    Left = 9
+    Height = 20
+    Top = 320
+    Width = 238
+    Caption = 'Accelerometer X Axis (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 8
+  end
+  object edtManualRVOutputVoltage: TEdit
+    Left = 8
+    Height = 24
+    Top = 216
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualRVOutputVoltageChange
+    ParentFont = False
+    TabOrder = 9
+    Text = '0'
+  end
+  object edtManualRVOutputCurrent: TEdit
+    Left = 9
+    Height = 24
+    Top = 280
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualRVOutputCurrentChange
+    ParentFont = False
+    TabOrder = 10
+    Text = '0'
+  end
+  object edtManualAccelX: TEdit
+    Left = 8
+    Height = 24
+    Top = 343
+    Width = 56
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualAccelXChange
+    ParentFont = False
+    TabOrder = 11
+    Text = '0'
+  end
+  object cbManualAccelY: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 384
+    Width = 238
+    Caption = 'Accelerometer Y Axis (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 12
+  end
+  object cbManualAccelZ: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 448
+    Width = 236
+    Caption = 'Accelerometer Z Axis (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 13
+  end
+  object cbManualIntRef: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 512
+    Width = 294
+    Caption = 'Internal Reference Counts (1400 to 1600)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 14
+  end
+  object edtManualAccelY: TEdit
+    Left = 9
+    Height = 24
+    Top = 409
+    Width = 56
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualAccelYChange
+    ParentFont = False
+    TabOrder = 15
+    Text = '0'
+  end
+  object edtManualAccelZ: TEdit
+    Left = 8
+    Height = 24
+    Top = 473
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualAccelZChange
+    ParentFont = False
+    TabOrder = 16
+    Text = '0'
+  end
+  object edtManualIntRef: TEdit
+    Left = 8
+    Height = 24
+    Top = 536
+    Width = 56
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualIntRefChange
+    ParentFont = False
+    TabOrder = 17
+    Text = '0'
+  end
+  object cbManual5VDC: TCheckBox
+    Left = 9
+    Height = 20
+    Top = 576
+    Width = 253
+    Caption = '5VDC Power Rail Counts (0 to 4095)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 18
+  end
+  object cbManualSetpoint: TCheckBox
+    Left = 8
+    Height = 20
+    Top = 640
+    Width = 357
+    Caption = 'Setpoint (0.000 to 9.999V or 1.000 to 999.99 Ohms)'
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 19
+  end
+  object edtManual5VDC: TEdit
+    Left = 8
+    Height = 24
+    Top = 600
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManual5VDCChange
+    ParentFont = False
+    TabOrder = 20
+    Text = '0'
+  end
+  object edtManualSetpoint: TEdit
+    Left = 8
+    Height = 24
+    Top = 664
+    Width = 57
+    Alignment = taRightJustify
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    OnChange = edtManualSetpointChange
+    ParentFont = False
+    TabOrder = 21
+    Text = '0'
+  end
+  object tbPowerInput: TTrackBar
+    Left = 73
+    Height = 25
+    Top = 28
+    Width = 314
+    Max = 4095
+    OnChange = tbPowerInputChange
+    Position = 0
+    TabOrder = 22
+  end
+  object tbKma: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 88
+    Width = 314
+    Max = 4095
+    OnChange = tbKmaChange
+    Position = 0
+    TabOrder = 23
+  end
+  object tbTemperature: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 152
+    Width = 314
+    Max = 4095
+    OnChange = tbTemperatureChange
+    Position = 0
+    TabOrder = 24
+  end
+  object tbRVVoltage: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 216
+    Width = 314
+    Max = 4095
+    OnChange = tbRVVoltageChange
+    Position = 0
+    TabOrder = 25
+  end
+  object tbRVCurrent: TTrackBar
+    Left = 73
+    Height = 25
+    Top = 280
+    Width = 314
+    Max = 4095
+    OnChange = tbRVCurrentChange
+    Position = 0
+    TabOrder = 26
+  end
+  object tbAccelX: TTrackBar
+    Left = 73
+    Height = 25
+    Top = 344
+    Width = 314
+    Max = 4095
+    OnChange = tbAccelXChange
+    Position = 0
+    TabOrder = 27
+  end
+  object tbAccelY: TTrackBar
+    Left = 74
+    Height = 25
+    Top = 408
+    Width = 314
+    Max = 4095
+    OnChange = tbAccelYChange
+    Position = 0
+    TabOrder = 28
+  end
+  object tbAccelZ: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 472
+    Width = 314
+    Max = 4095
+    OnChange = tbAccelZChange
+    Position = 0
+    TabOrder = 29
+  end
+  object tbIntRef: TTrackBar
+    Left = 73
+    Height = 25
+    Top = 535
+    Width = 314
+    Max = 1600
+    Min = 1400
+    OnChange = tbIntRefChange
+    Position = 1400
+    TabOrder = 30
+  end
+  object tb5VDCPower: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 600
+    Width = 314
+    Max = 4095
+    OnChange = tb5VDCPowerChange
+    Position = 0
+    TabOrder = 31
+  end
+  object tbSetpoint: TTrackBar
+    Left = 72
+    Height = 25
+    Top = 664
+    Width = 314
+    Max = 9999
+    OnChange = tbSetpointChange
+    Position = 0
+    TabOrder = 32
+  end
+end

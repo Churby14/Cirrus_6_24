@@ -1,0 +1,2 @@
+accel.c:73:6:InitializeAccel	8	static
+accel.c:100:6:ProcessAccelerometer	8	static

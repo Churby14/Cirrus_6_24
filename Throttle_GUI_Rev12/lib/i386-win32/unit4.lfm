@@ -1,0 +1,34 @@
+object Form4: TForm4
+  Left = 1271
+  Height = 453
+  Top = -654
+  Width = 827
+  Caption = 'Form4'
+  ClientHeight = 453
+  ClientWidth = 827
+  LCLVersion = '2.2.0.4'
+  object leSensorAOutput: TLabeledEdit
+    Left = 24
+    Height = 23
+    Top = 72
+    Width = 776
+    EditLabel.Height = 37
+    EditLabel.Width = 776
+    EditLabel.Caption = 'Sensor A Output:'
+    EditLabel.ParentFont = False
+    EditLabel.Font.Height = -27
+    TabOrder = 0
+  end
+  object leSensorBOutput: TLabeledEdit
+    Left = 24
+    Height = 23
+    Top = 296
+    Width = 776
+    EditLabel.Height = 37
+    EditLabel.Width = 776
+    EditLabel.Caption = 'Sensor B Output:'
+    EditLabel.ParentFont = False
+    EditLabel.Font.Height = -27
+    TabOrder = 1
+  end
+end

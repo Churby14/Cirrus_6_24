@@ -1,0 +1,2 @@
+adc.c:74:13:Start_DMA	24	static
+adc.c:107:6:ProcessReadAdc	8	static

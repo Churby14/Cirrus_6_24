@@ -1,0 +1,2 @@
+dma.c:66:6:STM32_DMA_Init	24	static
+dma.c:90:6:STM32_DMA_IRQHandler	24	static

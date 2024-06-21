@@ -1,0 +1,3 @@
+analog.c:136:16:DigitalFilter	96	static
+analog.c:155:6:ProcessAdcFilter	8	static
+analog.c:206:6:ProcessAnalogReadings	24	static

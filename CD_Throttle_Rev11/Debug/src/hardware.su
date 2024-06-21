@@ -1,0 +1,7 @@
+hardware.c:61:46:EnableInterrupts	8	static,ignoring_inline_asm
+hardware.c:73:46:DisableInterrupts	8	static,ignoring_inline_asm
+hardware.c:85:10:STM32_GetTick	8	static
+hardware.c:97:6:STM32_Delay	24	static
+hardware.c:117:6:STM32_NVIC_SetPriority	40	static
+hardware.c:141:6:STM32_NVIC_EnableIRQ	16	static
+hardware.c:154:6:STM32_NVIC_DisableIRQ	16	static

@@ -1,0 +1,2 @@
+initsystem.c:60:13:STM32_ADC_ConfigChannel	16	static
+initsystem.c:79:6:InitializeSystem	64	static

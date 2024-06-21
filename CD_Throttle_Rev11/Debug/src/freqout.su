@@ -1,0 +1,2 @@
+freqout.c:61:6:ProcessFrequencyOutputs	16	static
+freqout.c:92:6:ProcessMasterFrequencyOutput	32	static

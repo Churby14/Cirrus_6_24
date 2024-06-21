@@ -1,0 +1,6 @@
+gpio.c:61:6:STM32_GPIO_EXTI_IRQHandler	16	static
+gpio.c:79:6:STM32_GPIO_WritePin	24	static
+gpio.c:97:10:STM32_GPIO_ReadPin	16	static
+gpio.c:110:18:CalcBitPosition	24	static
+gpio.c:136:6:STM32_GPIO_Init	40	static
+gpio.c:224:6:STM32_GPIO_DeInit	32	static

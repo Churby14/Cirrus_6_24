@@ -1,0 +1,4 @@
+logevent.c:69:6:InitializeEventLog	32	static
+logevent.c:127:6:ProcessClearEventLog	8	static
+logevent.c:194:6:LogEvent	24	static
+logevent.c:218:6:ProcessEventMessageQueue	8	static

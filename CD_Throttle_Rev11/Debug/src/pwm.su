@@ -1,0 +1,4 @@
+pwm.c:61:13:PWM_Init	96	static
+pwm.c:108:6:PWM_SetDutyCycle	40	static
+pwm.c:142:6:InitializePWM	16	static
+pwm.c:165:6:ProcessPwmOutput	8	static

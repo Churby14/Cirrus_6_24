@@ -1,0 +1,7 @@
+reflash.c:75:6:WaitForLastOperation	8	static
+reflash.c:96:10:CalculateCrcArray	24	static
+reflash.c:120:6:ReflashSerialSend	32	static
+reflash.c:183:9:GetSerialMessage	48	static
+reflash.c:308:6:reflash	40	static
+reflash.c:391:6:Flash_Program	24	static
+reflash.c:289:6:MoveMem	24	static

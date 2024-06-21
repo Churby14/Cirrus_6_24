@@ -1,0 +1,3 @@
+verify.c:76:6:ProcessVerifyStack	16	static
+verify.c:109:13:SetGeneralError	32	static
+verify.c:142:6:ProcessSignalStatus	40	static

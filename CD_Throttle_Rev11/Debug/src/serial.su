@@ -1,0 +1,8 @@
+serial.c:74:6:ProcessSerialData	24	static
+serial.c:177:6:ProcessRxSerial	16	static
+serial.c:254:6:MicroDelay	32	static
+serial.c:278:6:SerialSend	32	static
+serial.c:333:9:VerifyFlashData	32	static
+serial.c:677:9:VerifyFactoryData	16	static
+serial.c:733:9:VerifyFuzzyData	16	static
+serial.c:750:6:ProcessSerialMessage	40	static

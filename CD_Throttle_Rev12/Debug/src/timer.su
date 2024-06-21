@@ -1,0 +1,9 @@
+timer.c:62:6:STM32_TIM_Base_Init	32	static
+timer.c:96:13:STM32_TIM_OC1_SetConfig	32	static
+timer.c:138:13:STM32_TIM_OC2_SetConfig	32	static
+timer.c:181:6:STM32_TIM_PWM_ConfigChannel	24	static
+timer.c:213:6:STM32_TIM_MspPostInit	32	static
+timer.c:241:6:STM32_TIM_PWM_Start	24	static
+timer.c:265:6:STM32_TIM_Base_DeInit	16	static
+timer.c:284:6:STM32_TIM_Base_Start	16	static
+timer.c:300:6:MX_TIM2_Init	8	static

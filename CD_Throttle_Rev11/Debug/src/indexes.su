@@ -1,0 +1,3 @@
+indexes.c:78:13:ProcessResistanceOutputControl	24	static
+indexes.c:137:13:ProcessVoltageOutputControl	24	static
+indexes.c:185:6:ProcessMasterIndex	32	static

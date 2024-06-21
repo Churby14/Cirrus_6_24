@@ -1,0 +1,2 @@
+mcp3421.c:61:6:InitializeMcp3421	8	static
+mcp3421.c:88:6:ProcessMcp3421	16	static

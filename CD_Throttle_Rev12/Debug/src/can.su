@@ -1,0 +1,16 @@
+can.c:77:6:HAL_CAN_MspInit	32	static
+can.c:97:23:STM32_CAN_AddTxMessage	32	static
+can.c:161:23:STM32_CAN_ConfigFilter	24	static
+can.c:241:6:CAN_Filter_Init	88	static
+can.c:305:10:PGN_to_CAN_ID	16	static
+can.c:312:10:CAN_ID_to_PGN	24	static
+can.c:340:6:CAN_MessageTx	56	static
+can.c:406:6:Can_TxMultipacket	24	static
+can.c:477:6:CAN_Tx	40	static
+can.c:648:6:VerifyCanRxTimes	16	static
+can.c:687:6:VerifyCanRx	48	static
+can.c:752:6:CAN_Rx	32	static
+can.c:802:6:GetCanTxStatus	16	static
+can.c:838:6:ProcessCan	16	static
+can.c:966:23:STM32_CAN_Init	16	static
+can.c:1055:6:MX_CAN_Init	8	static

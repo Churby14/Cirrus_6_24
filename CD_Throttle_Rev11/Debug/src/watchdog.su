@@ -1,0 +1,2 @@
+watchdog.c:63:6:InitializeWatchDog	8	static
+watchdog.c:81:6:IWDG_TriggerWatchdog	16	static

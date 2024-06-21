@@ -1,0 +1,7 @@
+dig.c:62:6:DIG_Init	80	static
+dig.c:269:6:DIG_SetFrequency	24	static
+dig.c:291:6:DIG_SetPin	24	static
+dig.c:303:6:DIG_ResetPin	24	static
+dig.c:315:9:DIG_ReadPin	24	static
+dig.c:327:9:GetDigIo	24	static
+dig.c:364:6:InitializeDigitalIO	40	static
