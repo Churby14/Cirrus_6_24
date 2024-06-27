@@ -1,0 +1,2 @@
+crc16.c:36:10:CalcCrc	24	static
+crc16.c:47:10:CalcCrcArray	32	static

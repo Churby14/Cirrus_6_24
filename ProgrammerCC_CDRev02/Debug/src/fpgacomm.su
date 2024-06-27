@@ -1,0 +1,2 @@
+fpgacomm.c:20:6:ClearDUTData	8	static
+fpgacomm.c:49:6:ProcessFPGACommunications	24	static

@@ -1,0 +1,7 @@
+mysprintf.c:43:16:my_isdigit	16	static
+mysprintf.c:50:16:my_isupper	16	static
+mysprintf.c:57:16:my_toupper	16	static
+mysprintf.c:75:13:fmtstr	40	static
+mysprintf.c:116:13:fmtint	72	static
+mysprintf.c:255:16:dopr	72	static
+mysprintf.c:434:9:mysprintf	36	static

@@ -1,0 +1,6 @@
+reflash.c:22:19:WaitForLastOperation	16	static
+reflash.c:48:10:CalculateCrcArray	24	static
+reflash.c:67:6:ReflashSerialSend	32	static
+reflash.c:106:9:GetSerialMessage	48	static
+reflash.c:190:6:reflash	32	static,ignoring_inline_asm
+reflash.c:262:19:Flash_Program	32	static

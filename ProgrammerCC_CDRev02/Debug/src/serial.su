@@ -1,0 +1,5 @@
+serial.c:28:6:ProcessSerialData	24	static
+serial.c:139:6:HAL_UART_TxCpltCallback	16	static
+serial.c:162:6:HAL_UART_RxCpltCallback	16	static
+serial.c:192:6:SerialSend	32	static
+serial.c:242:6:ProcessSerialMessage	48	static

@@ -1,0 +1,1167 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+                              Debug/startup_stm32.o (__libc_init_array)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+                              Debug/initsystem.o (memcmp)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                              Debug/logevent.o (memmove)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                              Debug/mysprintf.o (strlen)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+                              Debug/dig.o (__aeabi_uidiv)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+                              Debug/dig.o (__aeabi_idiv)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_dvmd_tls.o)
+                              c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+                              Debug/dig.o (__aeabi_ldivmod)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+                              Debug/mysprintf.o (__aeabi_uldivmod)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+                              Debug/analog.o (__aeabi_lmul)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+                              c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+                              c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o) (__divdi3)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+                              c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o) (__udivdi3)
+c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_clzsi2.o)
+                              c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+hdma_memtomem_dma1_channel7
+                    0x44              Debug/global.o
+Dummy               0x2               Debug/global.o
+PitchCompensation   0x4               Debug/global.o
+Ticks10ms           0x2               Debug/global.o
+bNewAccelData       0x1               Debug/global.o
+uTicks              0x4               Debug/global.o
+AccelTicks          0x2               Debug/global.o
+hi2c1               0x2c              Debug/global.o
+htim15              0x40              Debug/global.o
+hi2c2               0x2c              Debug/global.o
+htim17              0x40              Debug/global.o
+SlaveCount          0x1               Debug/global.o
+SerialUsart1        0x238             Debug/global.o
+SerialUsart2        0x238             Debug/global.o
+hcan                0x44              Debug/global.o
+I2C2Control         0x14              Debug/global.o
+PWM_HandleStruct    0x2c              Debug/global.o
+bRVUpdate           0x1               Debug/global.o
+bClearEventLog      0x1               Debug/global.o
+I2C1Control         0x14              Debug/global.o
+hdma_memtomem_dma1_channel6
+                    0x44              Debug/global.o
+htim3               0x40              Debug/global.o
+I2C_Mode            0x1               Debug/global.o
+ExecutionTimeData   0x1f4             Debug/global.o
+FactoryConfiguration
+                    0x4               Debug/global.o
+ManualSetpointTimer
+                    0x4               Debug/global.o
+hdma_usart1_tx      0x44              Debug/global.o
+RxBuffer2           0x32              Debug/global.o
+ManualSetpoint      0x4               Debug/global.o
+SysVars             0x188             Debug/global.o
+huart1              0x20              Debug/global.o
+Ticks1000ms         0x2               Debug/global.o
+MaxTimeout          0x4               Debug/reflash.o
+Ticks20ms           0x2               Debug/global.o
+EventData           0x8               Debug/global.o
+ExecutionTimeReport
+                    0x190             Debug/global.o
+SignalStatus        0x75              Debug/global.o
+bFlashConfigurationValid
+                    0x1               Debug/global.o
+Ticks1ms            0x2               Debug/global.o
+htim1               0x40              Debug/global.o
+DIG_HandleStruct    0x1b0             Debug/global.o
+SlaveInformation    0xcc              Debug/global.o
+FlashConfiguration  0x4               Debug/global.o
+huart4              0x20              Debug/global.o
+htim2               0x40              Debug/global.o
+huart2              0x20              Debug/global.o
+htim14              0x40              Debug/global.o
+RxBuffer1           0xfa              Debug/global.o
+hdma_adc            0x44              Debug/global.o
+Ticks5ms            0x2               Debug/global.o
+bFactoryConfigurationValid
+                    0x1               Debug/global.o
+hadc                0x8               Debug/global.o
+SerialBuffer        0x80c             Debug/global.o
+htim16              0x40              Debug/global.o
+DIG_Mode            0x1               Debug/global.o
+Dummy32             0x4               Debug/global.o
+MasterIndexFiltering
+                    0x10              Debug/global.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00004000         xrw
+ROM              0x08000000         0x0001b800         xr
+REFLASH_ROM      0x0801b800         0x00000800         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+LOAD Debug/accel.o
+LOAD Debug/adc.o
+LOAD Debug/analog.o
+LOAD Debug/crc16.o
+LOAD Debug/dig.o
+LOAD Debug/error_handler.o
+LOAD Debug/errorcondition.o
+LOAD Debug/execution.o
+LOAD Debug/freqin.o
+LOAD Debug/freqout.o
+LOAD Debug/global.o
+LOAD Debug/hardware.o
+LOAD Debug/i2c.o
+LOAD Debug/indexes.o
+LOAD Debug/initsystem.o
+LOAD Debug/interrupts.o
+LOAD Debug/logevent.o
+LOAD Debug/lowfuelalarm.o
+LOAD Debug/main.o
+LOAD Debug/math64.o
+LOAD Debug/mcp3421.o
+LOAD Debug/mysprintf.o
+LOAD Debug/pitch.o
+LOAD Debug/pwm.o
+LOAD Debug/reflash.o
+LOAD Debug/reflash_page.o
+LOAD Debug/serial.o
+LOAD Debug/startup_stm32.o
+LOAD Debug/testinput.o
+LOAD Debug/ticks.o
+LOAD Debug/verify.o
+LOAD Debug/version.o
+LOAD Debug/watchdog.o
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libm.a
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a
+START GROUP
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a
+END GROUP
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+LOAD c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 Debug/startup_stm32.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0xc7d0
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+ .text          0x08000188      0x128 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .text          0x080002b0      0x170 Debug/accel.o
+                0x080002b0                InitializeAccel
+                0x08000340                ProcessAccelerometer
+ .text          0x08000420       0xf0 Debug/adc.o
+                0x08000420                ProcessReadAdc
+ .text          0x08000510      0x598 Debug/analog.o
+                0x08000510                DigitalFilter
+                0x080005c4                ProcessAdcFilter
+                0x0800071c                ProcessAnalogReadings
+ .text          0x08000aa8       0xc4 Debug/crc16.o
+                0x08000aa8                CalcCrc
+                0x08000b00                CalcCrcArray
+ *fill*         0x08000b6c        0x4 
+ .text          0x08000b70     0x12f0 Debug/dig.o
+                0x08000b70                DIG_Init
+                0x08001884                DIG_SetFrequency
+                0x080019e0                DIG_SetDutyCycle
+                0x08001a7c                DIG_SetPin
+                0x08001ac0                DIG_ResetPin
+                0x08001b04                DIG_ReadPin
+                0x08001b4c                GetDigIo
+                0x08001be8                InitializeDigitalIO
+ .text          0x08001e60       0x1c Debug/error_handler.o
+                0x08001e60                Error_Handler
+ .text          0x08001e7c      0x1b0 Debug/errorcondition.o
+                0x08001e7c                ProcessErrorCondition
+ .text          0x0800202c      0x2b4 Debug/execution.o
+                0x0800202c                InitializeExecutionTimers
+                0x0800204c                ExecutionStart
+                0x08002084                ExecutionEnd
+                0x08002178                ExecutionAverage
+ .text          0x080022e0      0x448 Debug/freqin.o
+                0x080022e0                HAL_GPIO_EXTI_Callback
+                0x0800253c                CalculuateFrequencyInput
+ .text          0x08002728      0x2b0 Debug/freqout.o
+                0x08002728                ProcessTemperatureFrequencyOutput
+                0x0800277c                ProcessKmaFrequencyOutput
+                0x080027f0                ProcessMasterFrequencyOutput
+ .text          0x080029d8        0x0 Debug/global.o
+ .text          0x080029d8     0x3df8 Debug/hardware.o
+                0x080029d8                EnableInterrupts
+                0x080029e4                DisableInterrupts
+                0x080029f0                __DSB
+                0x080029fc                STM32_GetTick
+                0x08002a10                STM32_Delay
+                0x08002a40                STM32_NVIC_SetPriority
+                0x08002b34                STM32_NVIC_EnableIRQ
+                0x08002b60                STM32_NVIC_DisableIRQ
+                0x08002b8c                STM32_GPIO_WritePin
+                0x08002bbc                STM32_GPIO_ReadPin
+                0x08002be4                STM32_GPIO_TogglePin
+                0x08002c40                STM32_GPIO_Init
+                0x08002ec8                STM32_GPIO_DeInit
+                0x08003194                STM32_TIM_Base_Init
+                0x080035b4                STM32_TIM_PWM_ConfigChannel
+                0x08003724                STM32_TIM_MspPostInit
+                0x08003870                STM32_TIM_PWM_Start
+                0x08003910                STM32_TIM_Base_DeInit
+                0x08003968                STM32_TIM_Base_Start
+                0x08004078                HAL_I2C_AbortCpltCallback
+                0x08004088                HAL_I2C_ErrorCallback
+                0x0800492c                STM32_I2C_Master_Transmit_IT
+                0x080049fc                STM32_I2C_Master_Receive_IT
+                0x08004cd8                STM32_I2C_Mem_Write_IT
+                0x08004ed0                STM32_I2C_Mem_Read_IT
+                0x080050ac                STM32_I2C_Master_Transmit
+                0x080052e8                STM32_UART_Receive_IT
+                0x08005474                STM32_UART_Transmit_DMA
+                0x08005504                STM32_UART_Transmit_IT
+                0x08005544                STM32_I2C_Init
+                0x08005744                STM32_UART_Init
+                0x08005828                STM32_DMA_Init
+                0x080058dc                STM32_ADC_Init
+                0x08005940                STM32_ADC_ConfigChannel
+                0x080059e8                STM32_CAN_Init
+                0x08005aac                STM32_DMA_Start_IT
+                0x08005b54                STM32_DMA_Abort_IT
+                0x08005be4                STM32_DMA_IRQHandler
+                0x08005d34                STM32_I2C_ER_IRQHandler
+                0x08005de4                STM32_I2C_EV_IRQHandler
+                0x08005e18                UART_Receive_IT
+                0x08005e94                UART_Transmit_IT
+                0x08005f28                HAL_UARTEx_WakeupCallback
+                0x08005f38                STM32_UART_IRQHandler
+                0x08005fac                STM32_GPIO_EXTI_IRQHandler
+                0x08005ff0                STM32_ADC_Start_DMA
+                0x080060e4                MX_ADC_Init
+                0x08006170                STM32_ADC_MspInit
+                0x0800624c                MX_CAN_Init
+                0x080062ac                HAL_CAN_MspInit
+                0x08006308                MX_TIM2_Init
+                0x0800634c                MX_DMA_Init
+                0x080063f8                HAL_UART_MspInit
+                0x08006508                MX_GPIO_Init
+                0x08006674                MX_I2C1_Init
+                0x08006694                MX_I2C2_Init
+                0x080066b4                HAL_I2C_MspInit
+                0x08006774                MX_USART1_UART_Init
+                0x08006794                MX_USART2_UART_Init
+ .text          0x080067d0      0x690 Debug/i2c.o
+                0x080067d0                HAL_I2C_MemTxCpltCallback
+                0x0800680c                HAL_I2C_MemRxCpltCallback
+                0x08006848                HAL_I2C_MasterTxCpltCallback
+                0x08006884                HAL_I2C_MasterRxCpltCallback
+                0x080068c0                I2C_SetMemoryParameters
+                0x080068f8                ProcessI2C1
+                0x08006ae8                ProcessI2C2
+                0x08006dfc                I2C_Command
+ .text          0x08006e60      0xa58 Debug/indexes.o
+                0x08007094                ProcessResistanceOutputControl
+                0x08007268                ProcessVoltageOutputControl
+                0x08007398                ProcessMasterIndex
+ .text          0x080078b8      0x460 Debug/initsystem.o
+                0x080078b8                InitializeSystem
+ .text          0x08007d18      0x138 Debug/interrupts.o
+                0x08007d18                NMI_Handler
+                0x08007d20                HardFault_Handler
+                0x08007d28                SVC_Handler
+                0x08007d30                PendSV_Handler
+                0x08007d38                EXTI0_1_IRQHandler
+                0x08007d48                EXTI2_3_IRQHandler
+                0x08007d58                EXTI4_15_IRQHandler
+                0x08007d7c                SysTick_Handler
+                0x08007d94                USART1_IRQHandler
+                0x08007da8                USART2_IRQHandler
+                0x08007dbc                USART4_IRQHandler
+                0x08007dd0                DMA1_Channel1_IRQHandler
+                0x08007de4                DMA1_Channel2_3_IRQHandler
+                0x08007df8                I2C1_IRQHandler
+                0x08007e24                I2C2_IRQHandler
+ .text          0x08007e50      0x208 Debug/logevent.o
+                0x08007e50                InitializeEventLog
+                0x08007ee4                ClearEventLog
+                0x08007fac                LogEvent
+ .text          0x08008058      0x130 Debug/lowfuelalarm.o
+                0x08008058                ProcessLowFuelAlarm
+ .text          0x08008188      0x130 Debug/main.o
+                0x08008188                main
+ .text          0x080082b8      0x2c0 Debug/math64.o
+                0x080082b8                DivideWithRounding64
+                0x08008408                MultDivideWithRounding64
+ .text          0x08008578       0x48 Debug/mcp3421.o
+                0x08008578                InitializeMcp3421
+                0x080085a4                ProcessMcp3421
+ .text          0x080085c0      0xfa0 Debug/mysprintf.o
+                0x08009520                mysprintf
+ .text          0x08009560      0x3d8 Debug/pitch.o
+                0x08009560                ProcessPitch
+ .text          0x08009938      0x348 Debug/pwm.o
+                0x08009b24                PWM_SetDutyCycle
+                0x08009be8                InitializePWM
+                0x08009c1c                ProcessPwmOutput
+ .text          0x08009c80        0x0 Debug/reflash.o
+ .text          0x08009c80      0x174 Debug/reflash_page.o
+                0x08009d3c                ReflashTuningParameters
+ .text          0x08009df4     0x1370 Debug/serial.o
+                0x08009df4                ProcessSerialData
+                0x0800a080                ProcessRxSerial
+                0x0800a1c0                HAL_UART_TxCpltCallback
+                0x0800a228                HAL_UART_RxCpltCallback
+                0x0800a304                MicroDelay
+                0x0800a33c                SerialSend
+                0x0800a49c                VerifyFlashData
+                0x0800ab2c                ProcessSerialMessage
+                0x0800b158                ProcessSerialSlave
+ .text          0x0800b164       0x14 Debug/startup_stm32.o
+ .text          0x0800b178       0x58 Debug/testinput.o
+                0x0800b178                ProcessTestInput
+ .text          0x0800b1d0      0x140 Debug/ticks.o
+                0x0800b1d0                ProcessTickCounters
+ .text          0x0800b310      0x554 Debug/verify.o
+                0x0800b310                VerifyStack
+                0x0800b3a8                SetGeneralError
+                0x0800b418                ProcessSignalStatus
+ .text          0x0800b864        0x0 Debug/version.o
+ .text          0x0800b864       0x38 Debug/watchdog.o
+                0x0800b864                IWDG_TriggerWatchdog
+ .text          0x0800b89c       0x88 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+                0x0800b89c                __libc_init_array
+ .text          0x0800b924       0xb4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+                0x0800b924                memcmp
+ .text          0x0800b9d8      0x134 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                0x0800b9d8                memmove
+ .text          0x0800bb0c       0x60 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                0x0800bb0c                strlen
+ .text          0x0800bb6c      0x114 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+                0x0800bb6c                __aeabi_uidiv
+                0x0800bb6c                __udivsi3
+                0x0800bc60                __aeabi_uidivmod
+ .text          0x0800bc80      0x148 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+                0x0800bc80                __divsi3
+                0x0800bc80                __aeabi_idiv
+                0x0800bda8                __aeabi_idivmod
+ .text          0x0800bdc8        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_dvmd_tls.o)
+                0x0800bdc8                __aeabi_idiv0
+                0x0800bdc8                __aeabi_ldiv0
+ .text          0x0800bdcc       0x44 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+                0x0800bdcc                __aeabi_ldivmod
+ .text          0x0800be10       0x3c c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+                0x0800be10                __aeabi_uldivmod
+ .text          0x0800be4c       0x20 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+                0x0800be4c                __muldi3
+                0x0800be4c                __aeabi_lmul
+ .text          0x0800be6c       0x84 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+                0x0800be6c                __gnu_ldivmod_helper
+                0x0800beb0                __gnu_uldivmod_helper
+ .text          0x0800bef0      0x4d0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+                0x0800bef0                __divdi3
+ .text          0x0800c3c0      0x470 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+                0x0800c3c0                __udivdi3
+ .text          0x0800c830       0x48 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_clzsi2.o)
+                0x0800c830                __clzsi2
+ .text          0x0800c878        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+ .text          0x0800c878        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+ *(.text*)
+ .text.Reset_Handler
+                0x0800c878       0x5c Debug/startup_stm32.o
+                0x0800c878                Reset_Handler
+ .text.Default_Handler
+                0x0800c8d4        0x2 Debug/startup_stm32.o
+                0x0800c8d4                DebugMon_Handler
+                0x0800c8d4                TIM1_CC_IRQHandler
+                0x0800c8d4                TSC_IRQHandler
+                0x0800c8d4                ADC1_COMP_IRQHandler
+                0x0800c8d4                RCC_CRS_IRQHandler
+                0x0800c8d4                UsageFault_Handler
+                0x0800c8d4                SPI1_IRQHandler
+                0x0800c8d4                TIM6_DAC_IRQHandler
+                0x0800c8d4                USART3_4_IRQHandler
+                0x0800c8d4                TIM17_IRQHandler
+                0x0800c8d4                CEC_CAN_IRQHandler
+                0x0800c8d4                RTC_IRQHandler
+                0x0800c8d4                PVD_VDDIO2_IRQHandler
+                0x0800c8d4                DMA1_Channel4_5_6_7_IRQHandler
+                0x0800c8d4                TIM16_IRQHandler
+                0x0800c8d4                TIM3_IRQHandler
+                0x0800c8d4                Default_Handler
+                0x0800c8d4                TIM14_IRQHandler
+                0x0800c8d4                TIM7_IRQHandler
+                0x0800c8d4                TIM15_IRQHandler
+                0x0800c8d4                USB_IRQHandler
+                0x0800c8d4                SPI2_IRQHandler
+                0x0800c8d4                MemManage_Handler
+                0x0800c8d4                WWDG_IRQHandler
+                0x0800c8d4                TIM2_IRQHandler
+                0x0800c8d4                FLASH_IRQHandler
+                0x0800c8d4                BusFault_Handler
+                0x0800c8d4                TIM1_BRK_UP_TRG_COM_IRQHandler
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x0800c8d6        0x2 
+ .eh_frame      0x0800c8d8        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .eh_frame      0x0800c8d8        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+ *(.init)
+ .init          0x0800c8dc        0xc c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+                0x0800c8dc                _init
+ .init          0x0800c8e8        0xc c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+ *(.fini)
+ .fini          0x0800c8f4        0xc c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+                0x0800c8f4                _fini
+ .fini          0x0800c900        0xc c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+ *fill*         0x0800c90c        0x4 
+ .fini.__stub   0x0800c910       0x48 linker stubs
+                0x0800c958                . = ALIGN (0x4)
+                0x0800c958                _etext = .
+
+.vfp11_veneer   0x0800c958        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800c958        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800c958        0x0
+ .iplt          0x00000000        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+
+.rodata         0x0800c958      0x958
+                0x0800c958                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0800c958      0x200 Debug/crc16.o
+                0x0800c958                CrcTable
+ .rodata        0x0800cb58       0x98 Debug/dig.o
+ .rodata        0x0800cbf0       0x18 Debug/hardware.o
+                0x0800cbf0                AHBPrescTable
+                0x0800cc00                APBPrescTable
+ .rodata        0x0800cc08       0xa8 Debug/i2c.o
+ .rodata        0x0800ccb0       0x68 Debug/initsystem.o
+ .rodata        0x0800cd18       0x18 Debug/logevent.o
+ .rodata        0x0800cd30       0xa4 Debug/mysprintf.o
+ .rodata        0x0800cdd4      0x160 Debug/serial.o
+ .rodata        0x0800cf34      0x37c Debug/verify.o
+ *(.rodata*)
+                0x0800d2b0                . = ALIGN (0x4)
+
+.ARM.extab      0x0800d2b0        0x0
+                0x0800d2b0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0800d2b0        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .ARM.extab     0x0800d2b0        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+                0x0800d2b0                . = ALIGN (0x4)
+
+.ARM            0x0800d2b0        0x8
+                0x0800d2b0                . = ALIGN (0x4)
+                0x0800d2b0                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0800d2b0        0x8 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0800d2b8        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x0800d2b8                __exidx_end = .
+                0x0800d2b8                . = ALIGN (0x4)
+
+.preinit_array  0x0800d2b8        0x0
+                0x0800d2b8                . = ALIGN (0x4)
+                0x0800d2b8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0800d2b8                PROVIDE (__preinit_array_end, .)
+                0x0800d2b8                . = ALIGN (0x4)
+
+.init_array     0x0800d2b8        0x4
+                0x0800d2b8                . = ALIGN (0x4)
+                0x0800d2b8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0800d2b8        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+                0x0800d2bc                PROVIDE (__init_array_end, .)
+                0x0800d2bc                . = ALIGN (0x4)
+
+.fini_array     0x0800d2bc        0x4
+                0x0800d2bc                . = ALIGN (0x4)
+                0x0800d2bc                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800d2bc        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+                0x0800d2c0                PROVIDE (__fini_array_end, .)
+                0x0800d2c0                . = ALIGN (0x4)
+
+.reflash_text   0x0801b800      0x6dc
+                0x0801b800                . = ALIGN (0x4)
+ *(.reflash_text)
+ .reflash_text  0x0801b800      0x6dc Debug/reflash.o
+                0x0801b800                WaitForLastOperation
+                0x0801b87c                CalculateCrcArray
+                0x0801b8d0                ReflashSerialSend
+                0x0801ba74                GetSerialMessage
+                0x0801bc50                reflash
+                0x0801bdf0                Flash_Program
+ *(.reflash_text*)
+                0x0801bedc                . = ALIGN (0x4)
+                0x0800d2c0                _sidata = LOADADDR (.data)
+
+.rel.dyn        0x0801bedc        0x0
+ .rel.iplt      0x00000000        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+
+.data           0x20000000       0xbc load address 0x0800d2c0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+ .data          0x20000000        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 Debug/accel.o
+ .data          0x20000004        0x0 Debug/adc.o
+ .data          0x20000004        0x0 Debug/analog.o
+ .data          0x20000004        0x0 Debug/crc16.o
+ .data          0x20000004        0x0 Debug/dig.o
+ .data          0x20000004        0x0 Debug/error_handler.o
+ .data          0x20000004        0x0 Debug/errorcondition.o
+ .data          0x20000004        0x0 Debug/execution.o
+ .data          0x20000004        0x0 Debug/freqin.o
+ .data          0x20000004        0x0 Debug/freqout.o
+ .data          0x20000004        0x0 Debug/global.o
+ .data          0x20000004        0x0 Debug/hardware.o
+ .data          0x20000004        0x0 Debug/i2c.o
+ .data          0x20000004        0x0 Debug/indexes.o
+ .data          0x20000004        0x0 Debug/initsystem.o
+ .data          0x20000004        0x0 Debug/interrupts.o
+ .data          0x20000004        0x0 Debug/logevent.o
+ .data          0x20000004        0x0 Debug/lowfuelalarm.o
+ .data          0x20000004        0x0 Debug/main.o
+ .data          0x20000004        0x0 Debug/math64.o
+ .data          0x20000004        0x0 Debug/mcp3421.o
+ .data          0x20000004        0x0 Debug/mysprintf.o
+ .data          0x20000004        0x0 Debug/pitch.o
+ .data          0x20000004        0x0 Debug/pwm.o
+ .data          0x20000004        0x0 Debug/reflash.o
+ .data          0x20000004        0x0 Debug/reflash_page.o
+ .data          0x20000004        0x0 Debug/serial.o
+ .data          0x20000004        0x0 Debug/startup_stm32.o
+ .data          0x20000004        0x0 Debug/testinput.o
+ .data          0x20000004        0x0 Debug/ticks.o
+ .data          0x20000004       0xa0 Debug/verify.o
+                0x20000004                ErrorString
+ .data          0x200000a4       0x18 Debug/version.o
+                0x200000a4                Version
+ .data          0x200000bc        0x0 Debug/watchdog.o
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_dvmd_tls.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_clzsi2.o)
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+ .data          0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+ *(.data*)
+                0x200000bc                . = ALIGN (0x4)
+                0x200000bc                _edata = .
+
+.jcr            0x200000bc        0x4 load address 0x0800d37c
+ .jcr           0x200000bc        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .jcr           0x200000bc        0x4 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+
+.tm_clone_table
+                0x200000c0        0x0 load address 0x0800d380
+ .tm_clone_table
+                0x200000c0        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .tm_clone_table
+                0x200000c0        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+
+.igot.plt       0x200000c0        0x0 load address 0x0800d380
+ .igot.plt      0x00000000        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+                0x200000c0                . = ALIGN (0x4)
+
+.bss            0x200000c0     0x1bc4 load address 0x0800d380
+                0x200000c0                _sbss = .
+                0x200000c0                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x200000c0        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+ .bss           0x200000c0       0x1c c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .bss           0x200000dc        0xc Debug/accel.o
+ .bss           0x200000e8       0x10 Debug/adc.o
+ .bss           0x200000f8       0xa0 Debug/analog.o
+ .bss           0x20000198        0x0 Debug/crc16.o
+ .bss           0x20000198        0x0 Debug/dig.o
+ .bss           0x20000198        0x0 Debug/error_handler.o
+ .bss           0x20000198        0x0 Debug/errorcondition.o
+ .bss           0x20000198        0x0 Debug/execution.o
+ .bss           0x20000198        0xc Debug/freqin.o
+ .bss           0x200001a4        0x4 Debug/freqout.o
+ .bss           0x200001a8        0x0 Debug/global.o
+ .bss           0x200001a8        0x0 Debug/hardware.o
+ .bss           0x200001a8        0x8 Debug/i2c.o
+ .bss           0x200001b0       0x28 Debug/indexes.o
+ .bss           0x200001d8        0x0 Debug/initsystem.o
+ .bss           0x200001d8        0x0 Debug/interrupts.o
+ .bss           0x200001d8        0x4 Debug/logevent.o
+ .bss           0x200001dc        0x0 Debug/lowfuelalarm.o
+ .bss           0x200001dc        0x0 Debug/main.o
+ .bss           0x200001dc        0x0 Debug/math64.o
+ .bss           0x200001dc        0x0 Debug/mcp3421.o
+ .bss           0x200001dc       0x58 Debug/mysprintf.o
+ .bss           0x20000234        0x0 Debug/pitch.o
+ .bss           0x20000234        0x0 Debug/pwm.o
+ .bss           0x20000234        0x0 Debug/reflash.o
+ .bss           0x20000234        0x0 Debug/reflash_page.o
+ .bss           0x20000234        0xc Debug/serial.o
+ .bss           0x20000240        0x0 Debug/startup_stm32.o
+ .bss           0x20000240        0x0 Debug/testinput.o
+ .bss           0x20000240        0x4 Debug/ticks.o
+ .bss           0x20000244        0x4 Debug/verify.o
+ .bss           0x20000248        0x0 Debug/version.o
+ .bss           0x20000248        0x2 Debug/watchdog.o
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_dvmd_tls.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_clzsi2.o)
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+ .bss           0x2000024a        0x0 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+ *(.bss*)
+ *(COMMON)
+ *fill*         0x2000024a        0x6 
+ COMMON         0x20000250     0x1a30 Debug/global.o
+                0x20000250                hdma_memtomem_dma1_channel7
+                0x20000294                Dummy
+                0x20000298                PitchCompensation
+                0x2000029c                Ticks10ms
+                0x2000029e                bNewAccelData
+                0x200002a0                uTicks
+                0x200002a4                AccelTicks
+                0x200002a8                hi2c1
+                0x200002d4                htim15
+                0x20000314                hi2c2
+                0x20000340                htim17
+                0x20000380                SlaveCount
+                0x20000384                SerialUsart1
+                0x200005bc                SerialUsart2
+                0x200007f4                hcan
+                0x20000838                I2C2Control
+                0x2000084c                PWM_HandleStruct
+                0x20000878                bRVUpdate
+                0x20000879                bClearEventLog
+                0x2000087c                I2C1Control
+                0x20000890                hdma_memtomem_dma1_channel6
+                0x200008d4                htim3
+                0x20000914                I2C_Mode
+                0x20000918                ExecutionTimeData
+                0x20000b0c                FactoryConfiguration
+                0x20000b10                ManualSetpointTimer
+                0x20000b14                hdma_usart1_tx
+                0x20000b58                RxBuffer2
+                0x20000b8c                ManualSetpoint
+                0x20000b90                SysVars
+                0x20000d18                huart1
+                0x20000d38                Ticks1000ms
+                0x20000d3a                Ticks20ms
+                0x20000d3c                EventData
+                0x20000d44                ExecutionTimeReport
+                0x20000ed4                SignalStatus
+                0x20000f49                bFlashConfigurationValid
+                0x20000f4a                Ticks1ms
+                0x20000f4c                htim1
+                0x20000f8c                DIG_HandleStruct
+                0x2000113c                SlaveInformation
+                0x20001208                FlashConfiguration
+                0x2000120c                huart4
+                0x2000122c                htim2
+                0x2000126c                huart2
+                0x2000128c                htim14
+                0x200012cc                RxBuffer1
+                0x200013c8                hdma_adc
+                0x2000140c                Ticks5ms
+                0x2000140e                bFactoryConfigurationValid
+                0x20001410                hadc
+                0x20001418                SerialBuffer
+                0x20001c24                htim16
+                0x20001c64                DIG_Mode
+                0x20001c68                Dummy32
+                0x20001c70                MasterIndexFiltering
+ COMMON         0x20001c80        0x4 Debug/reflash.o
+                0x20001c80                MaxTimeout
+                0x20001c84                . = ALIGN (0x4)
+                0x20001c84                _ebss = .
+                0x20001c84                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20001c84      0x404 load address 0x0800d380
+                0x20001c88                . = ALIGN (0x8)
+ *fill*         0x20001c84        0x4 
+                0x20001c88                PROVIDE (end, .)
+                0x20001c88                PROVIDE (_end, .)
+                0x20001c88                . = (. + _Min_Heap_Size)
+                0x20002088                . = (. + _Min_Stack_Size)
+ *fill*         0x20001c88      0x400 
+                0x20002088                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2d
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x16 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crti.o
+ .ARM.attributes
+                0x00000016       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtbegin.o
+ .ARM.attributes
+                0x00000046       0x31 Debug/accel.o
+ .ARM.attributes
+                0x00000077       0x31 Debug/adc.o
+ .ARM.attributes
+                0x000000a8       0x31 Debug/analog.o
+ .ARM.attributes
+                0x000000d9       0x31 Debug/crc16.o
+ .ARM.attributes
+                0x0000010a       0x31 Debug/dig.o
+ .ARM.attributes
+                0x0000013b       0x31 Debug/error_handler.o
+ .ARM.attributes
+                0x0000016c       0x31 Debug/errorcondition.o
+ .ARM.attributes
+                0x0000019d       0x31 Debug/execution.o
+ .ARM.attributes
+                0x000001ce       0x31 Debug/freqin.o
+ .ARM.attributes
+                0x000001ff       0x31 Debug/freqout.o
+ .ARM.attributes
+                0x00000230       0x31 Debug/global.o
+ .ARM.attributes
+                0x00000261       0x31 Debug/hardware.o
+ .ARM.attributes
+                0x00000292       0x31 Debug/i2c.o
+ .ARM.attributes
+                0x000002c3       0x31 Debug/indexes.o
+ .ARM.attributes
+                0x000002f4       0x31 Debug/initsystem.o
+ .ARM.attributes
+                0x00000325       0x31 Debug/interrupts.o
+ .ARM.attributes
+                0x00000356       0x31 Debug/logevent.o
+ .ARM.attributes
+                0x00000387       0x31 Debug/lowfuelalarm.o
+ .ARM.attributes
+                0x000003b8       0x31 Debug/main.o
+ .ARM.attributes
+                0x000003e9       0x31 Debug/math64.o
+ .ARM.attributes
+                0x0000041a       0x31 Debug/mcp3421.o
+ .ARM.attributes
+                0x0000044b       0x31 Debug/mysprintf.o
+ .ARM.attributes
+                0x0000047c       0x31 Debug/pitch.o
+ .ARM.attributes
+                0x000004ad       0x31 Debug/pwm.o
+ .ARM.attributes
+                0x000004de       0x31 Debug/reflash.o
+ .ARM.attributes
+                0x0000050f       0x31 Debug/reflash_page.o
+ .ARM.attributes
+                0x00000540       0x31 Debug/serial.o
+ .ARM.attributes
+                0x00000571       0x21 Debug/startup_stm32.o
+ .ARM.attributes
+                0x00000592       0x31 Debug/testinput.o
+ .ARM.attributes
+                0x000005c3       0x31 Debug/ticks.o
+ .ARM.attributes
+                0x000005f4       0x31 Debug/verify.o
+ .ARM.attributes
+                0x00000625       0x31 Debug/version.o
+ .ARM.attributes
+                0x00000656       0x31 Debug/watchdog.o
+ .ARM.attributes
+                0x00000687       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000006b7       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000006e7       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000717       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000747       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000075f       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000777       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000078f       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x000007a7       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000007bf       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x000007ef       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000081f       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000084f       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000087f       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000897       0x30 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtend.o
+ .ARM.attributes
+                0x000008c7       0x18 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/crtn.o
+OUTPUT(D:/sync.com/Sync/CiesData/STM32_Projects/CD_FuelSender_RevA/Debug/CD_sender.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x17c8c
+ .debug_info    0x00000000      0xe65 Debug/accel.o
+ .debug_info    0x00000e65      0x7a2 Debug/adc.o
+ .debug_info    0x00001607      0xac0 Debug/analog.o
+ .debug_info    0x000020c7      0x15b Debug/crc16.o
+ .debug_info    0x00002222      0xe11 Debug/dig.o
+ .debug_info    0x00003033      0x168 Debug/error_handler.o
+ .debug_info    0x0000319b      0xf03 Debug/errorcondition.o
+ .debug_info    0x0000409e      0x6b7 Debug/execution.o
+ .debug_info    0x00004755      0xc13 Debug/freqin.o
+ .debug_info    0x00005368      0xee4 Debug/freqout.o
+ .debug_info    0x0000624c     0x2389 Debug/global.o
+ .debug_info    0x000085d5     0x2b9b Debug/hardware.o
+ .debug_info    0x0000b170      0xc61 Debug/i2c.o
+ .debug_info    0x0000bdd1     0x1230 Debug/indexes.o
+ .debug_info    0x0000d001     0x166b Debug/initsystem.o
+ .debug_info    0x0000e66c      0x840 Debug/interrupts.o
+ .debug_info    0x0000eeac      0xa96 Debug/logevent.o
+ .debug_info    0x0000f942      0xe62 Debug/lowfuelalarm.o
+ .debug_info    0x000107a4      0x23c Debug/main.o
+ .debug_info    0x000109e0      0x1a4 Debug/math64.o
+ .debug_info    0x00010b84      0x61d Debug/mcp3421.o
+ .debug_info    0x000111a1      0x3ec Debug/mysprintf.o
+ .debug_info    0x0001158d      0x69a Debug/pitch.o
+ .debug_info    0x00011c27      0xcde Debug/pwm.o
+ .debug_info    0x00012905      0xedf Debug/reflash.o
+ .debug_info    0x000137e4      0x289 Debug/reflash_page.o
+ .debug_info    0x00013a6d     0x1bb9 Debug/serial.o
+ .debug_info    0x00015626       0x79 Debug/startup_stm32.o
+ .debug_info    0x0001569f      0xb06 Debug/testinput.o
+ .debug_info    0x000161a5      0x820 Debug/ticks.o
+ .debug_info    0x000169c5     0x1112 Debug/verify.o
+ .debug_info    0x00017ad7       0x9e Debug/version.o
+ .debug_info    0x00017b75      0x117 Debug/watchdog.o
+
+.debug_abbrev   0x00000000     0x2c27
+ .debug_abbrev  0x00000000      0x17b Debug/accel.o
+ .debug_abbrev  0x0000017b      0x152 Debug/adc.o
+ .debug_abbrev  0x000002cd      0x173 Debug/analog.o
+ .debug_abbrev  0x00000440       0xb3 Debug/crc16.o
+ .debug_abbrev  0x000004f3      0x216 Debug/dig.o
+ .debug_abbrev  0x00000709       0xa0 Debug/error_handler.o
+ .debug_abbrev  0x000007a9      0x15d Debug/errorcondition.o
+ .debug_abbrev  0x00000906      0x171 Debug/execution.o
+ .debug_abbrev  0x00000a77      0x17f Debug/freqin.o
+ .debug_abbrev  0x00000bf6      0x16a Debug/freqout.o
+ .debug_abbrev  0x00000d60      0x18f Debug/global.o
+ .debug_abbrev  0x00000eef      0x34b Debug/hardware.o
+ .debug_abbrev  0x0000123a      0x1bc Debug/i2c.o
+ .debug_abbrev  0x000013f6      0x1cd Debug/indexes.o
+ .debug_abbrev  0x000015c3      0x16e Debug/initsystem.o
+ .debug_abbrev  0x00001731      0x114 Debug/interrupts.o
+ .debug_abbrev  0x00001845      0x191 Debug/logevent.o
+ .debug_abbrev  0x000019d6      0x16a Debug/lowfuelalarm.o
+ .debug_abbrev  0x00001b40       0xa6 Debug/main.o
+ .debug_abbrev  0x00001be6       0xa1 Debug/math64.o
+ .debug_abbrev  0x00001c87      0x125 Debug/mcp3421.o
+ .debug_abbrev  0x00001dac      0x148 Debug/mysprintf.o
+ .debug_abbrev  0x00001ef4      0x118 Debug/pitch.o
+ .debug_abbrev  0x0000200c      0x1a4 Debug/pwm.o
+ .debug_abbrev  0x000021b0      0x1e2 Debug/reflash.o
+ .debug_abbrev  0x00002392       0xe3 Debug/reflash_page.o
+ .debug_abbrev  0x00002475      0x27a Debug/serial.o
+ .debug_abbrev  0x000026ef       0x12 Debug/startup_stm32.o
+ .debug_abbrev  0x00002701      0x145 Debug/testinput.o
+ .debug_abbrev  0x00002846      0x130 Debug/ticks.o
+ .debug_abbrev  0x00002976      0x1b1 Debug/verify.o
+ .debug_abbrev  0x00002b27       0x56 Debug/version.o
+ .debug_abbrev  0x00002b7d       0xaa Debug/watchdog.o
+
+.debug_aranges  0x00000000      0x440
+ .debug_aranges
+                0x00000000       0x20 Debug/accel.o
+ .debug_aranges
+                0x00000020       0x20 Debug/adc.o
+ .debug_aranges
+                0x00000040       0x20 Debug/analog.o
+ .debug_aranges
+                0x00000060       0x20 Debug/crc16.o
+ .debug_aranges
+                0x00000080       0x20 Debug/dig.o
+ .debug_aranges
+                0x000000a0       0x20 Debug/error_handler.o
+ .debug_aranges
+                0x000000c0       0x20 Debug/errorcondition.o
+ .debug_aranges
+                0x000000e0       0x20 Debug/execution.o
+ .debug_aranges
+                0x00000100       0x20 Debug/freqin.o
+ .debug_aranges
+                0x00000120       0x20 Debug/freqout.o
+ .debug_aranges
+                0x00000140       0x18 Debug/global.o
+ .debug_aranges
+                0x00000158       0x20 Debug/hardware.o
+ .debug_aranges
+                0x00000178       0x20 Debug/i2c.o
+ .debug_aranges
+                0x00000198       0x20 Debug/indexes.o
+ .debug_aranges
+                0x000001b8       0x20 Debug/initsystem.o
+ .debug_aranges
+                0x000001d8       0x20 Debug/interrupts.o
+ .debug_aranges
+                0x000001f8       0x20 Debug/logevent.o
+ .debug_aranges
+                0x00000218       0x20 Debug/lowfuelalarm.o
+ .debug_aranges
+                0x00000238       0x20 Debug/main.o
+ .debug_aranges
+                0x00000258       0x20 Debug/math64.o
+ .debug_aranges
+                0x00000278       0x20 Debug/mcp3421.o
+ .debug_aranges
+                0x00000298       0x20 Debug/mysprintf.o
+ .debug_aranges
+                0x000002b8       0x20 Debug/pitch.o
+ .debug_aranges
+                0x000002d8       0x20 Debug/pwm.o
+ .debug_aranges
+                0x000002f8       0x48 Debug/reflash.o
+ .debug_aranges
+                0x00000340       0x20 Debug/reflash_page.o
+ .debug_aranges
+                0x00000360       0x20 Debug/serial.o
+ .debug_aranges
+                0x00000380       0x28 Debug/startup_stm32.o
+ .debug_aranges
+                0x000003a8       0x20 Debug/testinput.o
+ .debug_aranges
+                0x000003c8       0x20 Debug/ticks.o
+ .debug_aranges
+                0x000003e8       0x20 Debug/verify.o
+ .debug_aranges
+                0x00000408       0x18 Debug/version.o
+ .debug_aranges
+                0x00000420       0x20 Debug/watchdog.o
+
+.debug_line     0x00000000     0x36b6
+ .debug_line    0x00000000      0x11f Debug/accel.o
+ .debug_line    0x0000011f      0x10d Debug/adc.o
+ .debug_line    0x0000022c      0x142 Debug/analog.o
+ .debug_line    0x0000036e       0xba Debug/crc16.o
+ .debug_line    0x00000428      0x246 Debug/dig.o
+ .debug_line    0x0000066e      0x104 Debug/error_handler.o
+ .debug_line    0x00000772      0x139 Debug/errorcondition.o
+ .debug_line    0x000008ab      0x133 Debug/execution.o
+ .debug_line    0x000009de      0x15c Debug/freqin.o
+ .debug_line    0x00000b3a      0x150 Debug/freqout.o
+ .debug_line    0x00000c8a       0xeb Debug/global.o
+ .debug_line    0x00000d75      0xa19 Debug/hardware.o
+ .debug_line    0x0000178e      0x1c2 Debug/i2c.o
+ .debug_line    0x00001950      0x1eb Debug/indexes.o
+ .debug_line    0x00001b3b      0x189 Debug/initsystem.o
+ .debug_line    0x00001cc4      0x130 Debug/interrupts.o
+ .debug_line    0x00001df4      0x13f Debug/logevent.o
+ .debug_line    0x00001f33      0x140 Debug/lowfuelalarm.o
+ .debug_line    0x00002073      0x112 Debug/main.o
+ .debug_line    0x00002185      0x13c Debug/math64.o
+ .debug_line    0x000022c1      0x103 Debug/mcp3421.o
+ .debug_line    0x000023c4      0x2d6 Debug/mysprintf.o
+ .debug_line    0x0000269a      0x162 Debug/pitch.o
+ .debug_line    0x000027fc      0x153 Debug/pwm.o
+ .debug_line    0x0000294f      0x254 Debug/reflash.o
+ .debug_line    0x00002ba3      0x143 Debug/reflash_page.o
+ .debug_line    0x00002ce6      0x3eb Debug/serial.o
+ .debug_line    0x000030d1       0x7f Debug/startup_stm32.o
+ .debug_line    0x00003150      0x10b Debug/testinput.o
+ .debug_line    0x0000325b      0x11a Debug/ticks.o
+ .debug_line    0x00003375      0x1b9 Debug/verify.o
+ .debug_line    0x0000352e       0x92 Debug/version.o
+ .debug_line    0x000035c0       0xf6 Debug/watchdog.o
+
+.debug_str      0x00000000     0x3343
+ .debug_str     0x00000000      0xc2d Debug/accel.o
+                                0xe27 (size before relaxing)
+ .debug_str     0x00000c2d       0xc5 Debug/adc.o
+                                0x7c8 (size before relaxing)
+ .debug_str     0x00000cf2      0x1a1 Debug/analog.o
+                                0xae0 (size before relaxing)
+ .debug_str     0x00000e93       0x3a Debug/crc16.o
+                                0x191 (size before relaxing)
+ .debug_str     0x00000ecd      0x5c5 Debug/dig.o
+                                0xc57 (size before relaxing)
+ .debug_str     0x00001492       0x34 Debug/error_handler.o
+                                0x1a4 (size before relaxing)
+ .debug_str     0x000014c6      0x108 Debug/errorcondition.o
+                                0xe1e (size before relaxing)
+ .debug_str     0x000015ce       0xe8 Debug/execution.o
+                                0x633 (size before relaxing)
+ .debug_str     0x000016b6       0x90 Debug/freqin.o
+                                0xb18 (size before relaxing)
+ .debug_str     0x00001746       0xa4 Debug/freqout.o
+                                0xdcb (size before relaxing)
+ .debug_str     0x000017ea      0x71b Debug/global.o
+                               0x1b23 (size before relaxing)
+ .debug_str     0x00001f05      0xa23 Debug/hardware.o
+                               0x1944 (size before relaxing)
+ .debug_str     0x00002928       0xd7 Debug/i2c.o
+                                0xb2c (size before relaxing)
+ .debug_str     0x000029ff       0xc2 Debug/indexes.o
+                               0x104d (size before relaxing)
+ .debug_str     0x00002ac1       0xc1 Debug/initsystem.o
+                               0x149d (size before relaxing)
+ .debug_str     0x00002b82      0x11e Debug/interrupts.o
+                                0x824 (size before relaxing)
+ .debug_str     0x00002ca0       0x4f Debug/logevent.o
+                                0xa71 (size before relaxing)
+ .debug_str     0x00002cef       0x44 Debug/lowfuelalarm.o
+                                0xd57 (size before relaxing)
+ .debug_str     0x00002d33       0x10 Debug/main.o
+                                0x272 (size before relaxing)
+ .debug_str     0x00002d43       0x5d Debug/math64.o
+                                0x1ec (size before relaxing)
+ .debug_str     0x00002da0       0x3a Debug/mcp3421.o
+                                0x616 (size before relaxing)
+ .debug_str     0x00002dda      0x110 Debug/mysprintf.o
+                                0x277 (size before relaxing)
+ .debug_str     0x00002eea       0x85 Debug/pitch.o
+                                0x6d7 (size before relaxing)
+ .debug_str     0x00002f6f       0x43 Debug/pwm.o
+                                0xbd1 (size before relaxing)
+ .debug_str     0x00002fb2       0xdd Debug/reflash.o
+                                0x963 (size before relaxing)
+ .debug_str     0x0000308f       0x3f Debug/reflash_page.o
+                                0x23d (size before relaxing)
+ .debug_str     0x000030ce      0x156 Debug/serial.o
+                               0x1751 (size before relaxing)
+ .debug_str     0x00003224       0x21 Debug/testinput.o
+                                0xa65 (size before relaxing)
+ .debug_str     0x00003245       0x41 Debug/ticks.o
+                                0x6e6 (size before relaxing)
+ .debug_str     0x00003286       0x77 Debug/verify.o
+                                0xf8e (size before relaxing)
+ .debug_str     0x000032fd        0xe Debug/version.o
+                                0x143 (size before relaxing)
+ .debug_str     0x0000330b       0x38 Debug/watchdog.o
+                                0x189 (size before relaxing)
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 Debug/accel.o
+                                 0x47 (size before relaxing)
+ .comment       0x00000000       0x47 Debug/adc.o
+ .comment       0x00000000       0x47 Debug/analog.o
+ .comment       0x00000000       0x47 Debug/crc16.o
+ .comment       0x00000000       0x47 Debug/dig.o
+ .comment       0x00000000       0x47 Debug/error_handler.o
+ .comment       0x00000000       0x47 Debug/errorcondition.o
+ .comment       0x00000000       0x47 Debug/execution.o
+ .comment       0x00000000       0x47 Debug/freqin.o
+ .comment       0x00000000       0x47 Debug/freqout.o
+ .comment       0x00000000       0x47 Debug/global.o
+ .comment       0x00000000       0x47 Debug/hardware.o
+ .comment       0x00000000       0x47 Debug/i2c.o
+ .comment       0x00000000       0x47 Debug/indexes.o
+ .comment       0x00000000       0x47 Debug/initsystem.o
+ .comment       0x00000000       0x47 Debug/interrupts.o
+ .comment       0x00000000       0x47 Debug/logevent.o
+ .comment       0x00000000       0x47 Debug/lowfuelalarm.o
+ .comment       0x00000000       0x47 Debug/main.o
+ .comment       0x00000000       0x47 Debug/math64.o
+ .comment       0x00000000       0x47 Debug/mcp3421.o
+ .comment       0x00000000       0x47 Debug/mysprintf.o
+ .comment       0x00000000       0x47 Debug/pitch.o
+ .comment       0x00000000       0x47 Debug/pwm.o
+ .comment       0x00000000       0x47 Debug/reflash.o
+ .comment       0x00000000       0x47 Debug/reflash_page.o
+ .comment       0x00000000       0x47 Debug/serial.o
+ .comment       0x00000000       0x47 Debug/testinput.o
+ .comment       0x00000000       0x47 Debug/ticks.o
+ .comment       0x00000000       0x47 Debug/verify.o
+ .comment       0x00000000       0x47 Debug/version.o
+ .comment       0x00000000       0x47 Debug/watchdog.o
+
+.debug_frame    0x00000000     0x1c64
+ .debug_frame   0x00000000       0x4c Debug/accel.o
+ .debug_frame   0x0000004c       0x2c Debug/adc.o
+ .debug_frame   0x00000078       0x74 Debug/analog.o
+ .debug_frame   0x000000ec       0x50 Debug/crc16.o
+ .debug_frame   0x0000013c      0x11c Debug/dig.o
+ .debug_frame   0x00000258       0x2c Debug/error_handler.o
+ .debug_frame   0x00000284       0x30 Debug/errorcondition.o
+ .debug_frame   0x000002b4       0x90 Debug/execution.o
+ .debug_frame   0x00000344       0x54 Debug/freqin.o
+ .debug_frame   0x00000398       0x70 Debug/freqout.o
+ .debug_frame   0x00000408      0xc0c Debug/hardware.o
+ .debug_frame   0x00001014      0x110 Debug/i2c.o
+ .debug_frame   0x00001124       0xac Debug/indexes.o
+ .debug_frame   0x000011d0       0x30 Debug/initsystem.o
+ .debug_frame   0x00001200      0x1b4 Debug/interrupts.o
+ .debug_frame   0x000013b4       0x70 Debug/logevent.o
+ .debug_frame   0x00001424       0x30 Debug/lowfuelalarm.o
+ .debug_frame   0x00001454       0x2c Debug/main.o
+ .debug_frame   0x00001480       0x58 Debug/math64.o
+ .debug_frame   0x000014d8       0x4c Debug/mcp3421.o
+ .debug_frame   0x00001524       0xfc Debug/mysprintf.o
+ .debug_frame   0x00001620       0x30 Debug/pitch.o
+ .debug_frame   0x00001650       0x90 Debug/pwm.o
+ .debug_frame   0x000016e0       0xd0 Debug/reflash.o
+ .debug_frame   0x000017b0       0x6c Debug/reflash_page.o
+ .debug_frame   0x0000181c      0x12c Debug/serial.o
+ .debug_frame   0x00001948       0x30 Debug/testinput.o
+ .debug_frame   0x00001978       0x30 Debug/ticks.o
+ .debug_frame   0x000019a8       0x70 Debug/verify.o
+ .debug_frame   0x00001a18       0x2c Debug/watchdog.o
+ .debug_frame   0x00001a44       0x2c c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-init.o)
+ .debug_frame   0x00001a70       0x28 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00001a98       0x2c c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001ac4       0x20 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001ae4       0x20 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001b04       0x20 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divsi3.o)
+ .debug_frame   0x00001b24       0x28 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00001b4c       0x28 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001b74       0x28 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_muldi3.o)
+ .debug_frame   0x00001b9c       0x58 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(bpabi.o)
+ .debug_frame   0x00001bf4       0x38 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_divdi3.o)
+ .debug_frame   0x00001c2c       0x38 c:/users/rick/mentorgraphics/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.8.3\libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000       0x58
+ .debug_ranges  0x00000000       0x38 Debug/reflash.o
+ .debug_ranges  0x00000038       0x20 Debug/startup_stm32.o

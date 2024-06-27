@@ -1,0 +1,2 @@
+math64.c:22:9:DivideWithRounding64	64	static
+math64.c:65:9:MultDivideWithRounding64	88	static
